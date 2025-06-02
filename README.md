@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...projetos de BI e análise de dados
 - 📫 How to reach me ...https://www.linkedin.com/in/caroline-carrilho-correia/
 - 😄 Pronouns: ...Ela/Dela
-- ⚡ Fun fact: ...Sou engenheira química 
+- ⚡ Fun fact: ...Formada em engenharia química 
 
 <!---
 carrilho91/carrilho91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
